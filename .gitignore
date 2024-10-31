@@ -1,0 +1,13 @@
+/.vs
+/.vscode
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/For Tests.sln
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/UserSettings
