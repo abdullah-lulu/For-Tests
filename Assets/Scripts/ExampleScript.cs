@@ -8,7 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         
-
+    // Exercise 2
     string[] a ={"Cat","Dog","Car","Pizza","Hat","Fish","Tree","Monkey","Ball","Bird"};   
         int b = (9);
         string score = "";
