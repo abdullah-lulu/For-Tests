@@ -8,7 +8,7 @@ public class Multiplication : MonoBehaviour
     {
         int num1;
         int num2;
-
+        Debug.Log("5 multiplication")
         for (int x = 1; x <= 10; x++)
         {
             num2 = 5;
